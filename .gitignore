@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+# downloaded / generated data
+beir_data/
+data/
+
+# benchmark outputs
+results.csv
+results_ndcg.png
+
+.DS_Store
