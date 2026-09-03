@@ -36,6 +36,7 @@ Data formats:
                      (relevance is an int; 0 = not relevant, >0 = relevant/graded)
 """
 
+import utils.session
 import argparse
 import csv
 import json
